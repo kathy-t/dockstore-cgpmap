@@ -3,3 +3,4 @@ tools:
    - subclass: cwl
      primaryDescriptorPath: /Dockstore.cwl
      name: migration-test
+     publish: true
